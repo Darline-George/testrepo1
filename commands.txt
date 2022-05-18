@@ -1,3 +1,8 @@
 git init=>initializing git in present file
 git status=> list all untracked files
-git add=>
+git add -A=>TO add all untracked files to staging area
+git commit -m "comments"=> to commit the changes done
+git remote add name path
+git remote -v
+git push -u name branch(master/main)
+ddd
